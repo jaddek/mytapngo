@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "type": "some",
+    "link": "some",
+    "description": "some",
+    "title": "Some",
+    "createdAt": "2024-02-02 17:45",
+    "startedAt": "2025-02-02 17:45",
+    "_type": "job"
+  },
+  {
+    "id": 2,
+    "type": "some",
+    "link": "some",
+    "description": "some",
+    "title": "Some",
+    "createdAt": "2024-02-02 17:45",
+    "startedAt": "2025-02-02 17:45",
+    "_type": "meetup"
+  },
+  {
+    "id": 3,
+    "type": "some",
+    "link": "some",
+    "description": "some",
+    "title": "Some",
+    "createdAt": "2024-02-02 17:45",
+    "startedAt": "2025-02-02 17:45",
+    "_type": "job"
+  },
+  {
+    "id": 4,
+    "type": "some",
+    "link": "some",
+    "description": "some",
+    "title": "Some",
+    "createdAt": "2024-02-02 17:45",
+    "startedAt": "2025-02-02 17:45",
+    "_type": "movie"
+  }
+]
